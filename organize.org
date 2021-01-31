@@ -1,0 +1,13 @@
+* Dailies
+** TODO 100 days of programming
+   SCHEDULED: <2021-01-31 Sun. +1d>
+   :PROPERTIES:
+   :STYLE: habit
+   :END:
+
+** TODO Shave
+   SCHEDULED: <2021-01-31 Sun. +3d>
+   :PROPERTIES:
+   :STYLE: habit
+   :END:
+
