@@ -1,0 +1,3 @@
+* Dailies
+  SCHEDULED: <2021-01-31 Sun +1d>
+- [ ] 100 days of Python 
