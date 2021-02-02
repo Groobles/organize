@@ -1,13 +1,37 @@
 * Dailies
 ** TODO 100 days of programming
-   SCHEDULED: <2021-01-31 Sun. +1d>
+   SCHEDULED: <2021-02-03 Wed +1d>
    :PROPERTIES:
    :STYLE: habit
+   :LAST_REPEAT: [2021-02-02 Tue 11:37]
    :END:
 
+   - State "DONE"       from "TODO"       [2021-02-02 Tue 11:37]
+   - State "DONE"       from "TODO"       [2021-02-01 Mon 17:41]
+   - State "DONE"       from "TODO"       [2021-01-31 Sun 21:25]
 ** TODO Shave
-   SCHEDULED: <2021-01-31 Sun. +3d>
+   SCHEDULED: <2021-02-03 Wed +3d>
    :PROPERTIES:
    :STYLE: habit
+   :LAST_REPEAT: [2021-01-31 Sun 21:25]
    :END:
+
+   - State "DONE"       from "TODO"       [2021-01-31 Sun 21:25]
+
+* Projects
+** TODO [1/3]
+- [X] Make the for loop version of the math game.
+- [ ] Make a program to automatically send birthday wishes.
+- [ ] Helpful (the program I installed.)
+
+
+
+*** CheatSheet of random stuff
+**** Git commands
+- git pull
+- git add (add a file)
+- git merge (merge your stuff with the repo)
+- git commit
+- git push
+**** Emacs
 
